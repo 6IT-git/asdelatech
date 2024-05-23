@@ -11,7 +11,9 @@ L'ensemble des formations proposées par la plateforme est libre d’accès, de 
 7.	Le Backend : Il s'agit globalement d'une API Rest pour permettre que le système soit accessible sur n'importe quel support numérique. Les réponses émises par l’API seront au format JSON.
 
 ### Modèle conceptuel des données
+
 1. Dictionaire des données élémentaires
+
 | Name         | Type   | Constraint | NULL     | Default | Description                         |
 |--------------|--------|------------|----------|---------|-------------------------------------|
 | lastname     | string |            | NOT NULL |         |                                     |
